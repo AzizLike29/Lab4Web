@@ -42,11 +42,15 @@ Nim : 312110262
 
 ![tugas](https://user-images.githubusercontent.com/119909214/228604715-5b4126dc-d9cc-4747-ae4f-b7a8040a6625.png)
 
-3. Tampilan tambah.php :
+3. Tampilan About.php :
+
+![tentang](https://user-images.githubusercontent.com/119909214/228607613-a537aa9e-c832-4f68-afd4-069c2b7e625b.png)
+
+4. Tampilan tambah.php :
 
 ![tambah](https://user-images.githubusercontent.com/119909214/228605057-b35809ff-ff2e-4930-9fc3-16f7007eff47.png)
 
-4. Tampilan ubah mengambil nomer id :
+5. Tampilan ubah mengambil nomer id :
 
 ![ubah](https://user-images.githubusercontent.com/119909214/228605320-ddcb7dff-16a9-481d-b0fb-774ad64942ef.png)
 
