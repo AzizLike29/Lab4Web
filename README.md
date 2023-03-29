@@ -6,7 +6,7 @@ Nim : 312110262
 
 <h1> Praktikum 4 (Pemrograman Web 2) </h1>
 
-<p> Konsep Modular </p>
+<h2> Konsep Modular </h2>
 
 1. Tampilan ht.access modularisasi :
 
