@@ -42,7 +42,7 @@ Nim : 312110262
 
 ![tugas](https://user-images.githubusercontent.com/119909214/228604715-5b4126dc-d9cc-4747-ae4f-b7a8040a6625.png)
 
-3. Tampilan About.php :
+3. Tampilan about.php :
 
 ![tentang](https://user-images.githubusercontent.com/119909214/228607613-a537aa9e-c832-4f68-afd4-069c2b7e625b.png)
 
