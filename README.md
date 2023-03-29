@@ -32,7 +32,7 @@ Nim : 312110262
 
 ![slash about](https://user-images.githubusercontent.com/119909214/228605890-925673a7-459b-4ac7-9303-45763516b9a4.png)
 
-<p> Tugas Implementasikan Konsep Modularisasi Pada Kode Program Tugas Lab3Web </p>
+<h2> Tugas Implementasikan Konsep Modularisasi Pada Kode Program Tugas Lab3Web </h2>
 
 1. Tampilan ht.access tugas modularisasi :
 
